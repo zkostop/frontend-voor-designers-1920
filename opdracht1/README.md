@@ -4,9 +4,9 @@ Ontwerp een user interface voor een gegeven use case. Werk je ontwerp uit in HTM
 
 ## Criteria
 
-De uitwerking van je ontwerp moet het doen in een browser en device naar keuze.
-De Principles of User Interface Design nr 04 & 11 zijn goed toegepast.
-Je ontwerp is aantoonbaar getest en verbeterd. Verslaglegging en resultaat publiceren op Github.
+- De uitwerking van je ontwerp moet het doen in een browser en device naar keuze.
+- De Principles of User Interface Design nr 04 & 11 zijn goed toegepast.
+- Je ontwerp is aantoonbaar getest en verbeterd. Verslaglegging en resultaat publiceren op Github.
 
 ## Resources
 
