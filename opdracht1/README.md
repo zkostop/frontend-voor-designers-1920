@@ -3,11 +3,11 @@
 Ontwerp een user interface voor een gegeven use case. Werk je ontwerp uit in HTML, CSS en Javascript om te kunnen testen in een browser.
 
 ## Use cases
-- In een lijst films, wil ik een aantal leuke films kunnen bewaren om ze later te bekijken..
-- In een lijst studentenhuizen wil ik details kunnen bekijken om te bepalen of de kamer geschikt is om te huren.
-- In een verzameling muzieknummers wil ik de volgorde kunnen veranderen om een vette playlist te maken voor een _house warming_ aanstaande zaterdag.
-- Als ik foto's zoek wil ik ze kunnen filteren op kleur om verassende zoekresultaten te krijgen die ik kan gebruiken voor mijn _Visual Research_.
-- Je mag ook een eigen idee uitwerken. Kom dan eerst even overleggen.
+<li>In een verzameling films wil ik een aantal leuke films kunnen bewaren om ze later te bekijken.</li>
+<li>In een lijst studentenhuizen wil ik details kunnen bekijken om te bepalen of de kamer geschikt is om te huren.</li>
+<li>In een verzameling muzieknummers wil ik de volgorde kunnen veranderen om een playlist te maken voor een feest.</li>
+<li>Als ik foto's zoek wil ik ze kunnen filteren op kleur om verassende zoekresultaten te krijgen die ik kan gebruiken voor mijn Visual Research.</li>
+<li>Je mag ook een eigen idee uitwerken. Kom dan eerst even overleggen.</li>
 
 ## Werkwijze
 Kies een Use Case en maak: Kies een van de Use Cases, schets eerst je idee, codeer in HTML,CSS en JavaScript en test je verschillende versies van je ontwerp in een browser.
