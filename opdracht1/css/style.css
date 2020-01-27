@@ -1,7 +1,7 @@
 html{
   box-sizing: border-box; /* https://css-tricks.com/box-sizing/ */
   background:#eee;
-  background: url("../img/flagF4D.png") top -20em right no-repeat;
+  background: url("../img/flagF4D.png") center no-repeat;
 }
 *, *:before, *:after {
   box-sizing: inherit;
