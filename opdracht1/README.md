@@ -10,7 +10,7 @@ Ontwerp een user interface voor een gegeven use case. Werk je ontwerp uit in HTM
 <li>Je mag ook een eigen idee uitwerken. Kom dan eerst even overleggen.</li>
 
 ## Werkwijze
-Kies een Use Case en maak: Kies een van de Use Cases, schets eerst je idee, codeer in HTML,CSS en JavaScript en test je verschillende versies van je ontwerp in een browser.
+Kies een Use Case en maak: Kies een van de Use Cases, schets eerst je idee, codeer in HTML,CSS en JavaScript en test verschillende versies van je ontwerp in een browser. 
 
 ## Criteria
 
