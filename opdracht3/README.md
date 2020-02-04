@@ -9,10 +9,10 @@ Schets eerst hoe de functionaliteit er uit komt te zien. Maak daarna een breakdo
 Werk daarna je ontwerp uit in HTML, CSS en JavaScript.
 
 ## Planning
-1. Eerste versie: lesweek 7
+1. Eerste versie: lesweek 6
 (Meenemen: breakdown-schets, JSON laden in de console, daarna in Javascript HTML elementen aanmaken, de data koppelen en toevoegen aan de DOM)
-2. Demo presenteren: lesweek 8
-3. Oplevering op Github lesweek 9
+2. Demo presenteren: lesweek 7
+3. Oplevering en beoordeling: lesweek 8
 
 
 ## Criteria

@@ -7,6 +7,10 @@ Bedenk een functionaliteit die je op meerdere manieren kan bedienen. Schets eers
 
 Codeer de functionaliteit in HTML,CSS en JavaScript en test verschillende versies van je ontwerp in een browser.
 
+## Planning
+1. Eerste versie: lesweek 4
+2. Oplevering en beoordeling: lesweek 5
+
 
 ## Voorbeeld functionaliteit die je kan maken
 <li>Carousel met vakantiefoto's: Een carousel met meerdere foto's van een vakantie, die je kan bedienen met een button en met de pijltjes op het toetsenbord.</li>
@@ -25,4 +29,4 @@ Codeer de functionaliteit in HTML,CSS en JavaScript en test verschillende versie
 ## Resources
 
 1. Als je iets wil doen met scrollen, dan kun je het event 'scroll' gebruiken. Misschien kun je ook iets doen met de [Intersection observer](https://pawelgrzybek.com/the-intersection-observer-api-explained/)
-2. Als een onderdeel van je pagina in beeld moet verschijnen na een click, dan kun je iets doen met de [scrollIntoView](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView). 
+2. Als een onderdeel van je pagina in beeld moet verschijnen na een click, dan kun je iets doen met de [scrollIntoView](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView).
