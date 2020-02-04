@@ -1,9 +1,9 @@
-# Frontend voor Designers - opdracht 2: Interactie ontwerpen met behulp van verschillende gebruikers input
+# Frontend voor Designers - opdracht 2: Een interactie uitwerken voor verschillende gebruikers input
 
 Werk een functionaliteit uit die je kan bedienen met 'click' en nog een user interactie, zoals het toetsenbord, tab, dubbel click, swipe, long press, force touch, of ... Werk je ontwerp uit in HTML, CSS en Javascript om te kunnen testen in een [browser](https://en.m.wikipedia.org/wiki/List_of_web_browsers).
 
 ## Werkwijze
-Bedenk een functionaliteit die je op meerdere manieren kan bedienen. Schets eerst hoe de functionaliteit er uit komt te zien. Maak daarna een breakdown-schets hoe de verschillende componenten technisch moeten gaan werken...
+Bedenk een functionaliteit die je op meerdere manieren kan bedienen. Schets eerst hoe de functionaliteit er uit komt te zien. Maak daarna een breakdown-schets van hoe de verschillende elementen technisch moeten gaan werken...
 
 Codeer de functionaliteit in HTML,CSS en JavaScript en test verschillende versies van je ontwerp in een browser.
 

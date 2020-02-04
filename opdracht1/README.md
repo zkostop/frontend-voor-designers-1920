@@ -1,4 +1,4 @@
-# Frontend voor Designers - opdracht 1: Use Case uitwerken en testen
+# Frontend voor Designers - opdracht 1: Een Micro-interactie ontwerpen, maken en testen
 
 Ontwerp een user interface voor een gegeven use case. Werk je ontwerp uit in HTML, CSS en Javascript om te kunnen testen in een browser.
 
@@ -10,7 +10,7 @@ Ontwerp een user interface voor een gegeven use case. Werk je ontwerp uit in HTM
 <li>Je mag ook een eigen idee uitwerken. Kom dan eerst even overleggen.</li>
 
 ## Werkwijze
-Kies een van de Use Cases, schets eerst je idee, codeer in HTML,CSS en JavaScript en test verschillende versies van je ontwerp in een browser.
+Kies een van de Use Cases, schets eerst een ontwerp voor de interactie. Codeer in HTML,CSS en JavaScript en test verschillende versies van je ontwerp in een browser.
 
 ## Planning
 1. Eerste versie: lesweek 2
