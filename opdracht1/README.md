@@ -15,18 +15,18 @@ Kies een van de Use Cases, schets eerst je idee, codeer in HTML,CSS en JavaScrip
 ## Criteria
 
 - De uitwerking van je ontwerp moet het doen in een browser en device naar keuze.
-- De [http://bokardo.com/principles-of-user-interface-design/](Principles of User Interface Design) nr 04 & 11 zijn goed toegepast.
-- Je ontwerp is aantoonbaar getest en verbeterd. Verslaglegging en resultaat publiceren op [https://github.com](Github).
+- De [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) nr 04 & 11 zijn goed toegepast.
+- Je ontwerp is aantoonbaar getest en verbeterd. Verslaglegging en resultaat publiceren op [Github](https://github.com).
 
 ## Resources
 
 ### Wat doe je ook alweer in JavaScript?
 
-1. Gebruik de [https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector](querySelector) om een element in je html te selecteren
-2. Koppel een [https://developer.mozilla.org/en-US/docs/Web/API/Element/click_event](evenListener) aan het element om een mouse-event te detecteren
-3. Gebruik het [https://developer.mozilla.org/en-US/docs/Web/API/Element/classList](Classlist object) om een css class aan een element toe te voegen of weg te halen.
+1. Gebruik de [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) om een element in je html te selecteren
+2. Koppel een [evenListener](https://developer.mozilla.org/en-US/docs/Web/API/Element/click_event) aan het element om een mouse-event te detecteren
+3. Gebruik het [Classlist object](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList) om een css class aan een element toe te voegen of weg te halen.
 
 Voor wat complexere microinteracties waar verschillende states elkaar moeten opvolgen kun je aan het eind van een transition of animation weer iets laten gebeuren. Gebruik hiervoor in Javascript de:
 
-1. eventlistener: [https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/transitionend_event](transitionend)
-2. eventlistener: [https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/animationend_event](animationend)
+1. eventlistener: [transitionend](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/transitionend_event)
+2. eventlistener: [animationend](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/animationend_event)
