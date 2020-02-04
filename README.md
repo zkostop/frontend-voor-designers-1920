@@ -1,5 +1,7 @@
 # Frontend voor Designers 1920
 
+![alt text](/img/F4Dheader.png "Frontend voor Design Flag")
+
 In het vak Frontend voor Designers leer je hoe je met HTML en CSS, en een beetje Javascript, snel en eenvoudig prototypes kan maken om je ontwerp ideeën te testen in een browser. We gaan animeren, responsive layouts uitproberen en interactie coderen ...
 
 
