@@ -23,8 +23,7 @@ Codeer de functionaliteit in HTML,CSS en JavaScript en test verschillende versie
 
 - In de demo maak je gebruik van twee of meer verschillende [User Interface events](https://developer.mozilla.org/en-US/docs/Web/API/UIEvent).
 - In de demo dien je rekening te houden met de interface design principles 06, 08 en/of 14 van [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/).
-- Je ontwerp is aantoonbaar getest en verbeterd. Verslaglegging en resultaat publiceren op Github.
-- Voeg ook je breakdown-schets toe, en beschrijf je eerste idee en technische opzet en hoe het uiteindelijk is geworden.
+- Je ontwerp is aantoonbaar getest en verbeterd. Verslaglegging en resultaat publiceren op Github. <br>Voeg ook je breakdown-schets toe, en beschrijf je eerste idee en technische opzet en hoe het uiteindelijk is geworden.
 
 ## Resources
 
