@@ -13,8 +13,9 @@ Ontwerp een user interface voor een gegeven use case. Werk je ontwerp uit in HTM
 Kies een van de Use Cases, schets eerst een ontwerp voor de interactie. Codeer in HTML,CSS en JavaScript en test verschillende versies van je ontwerp in een browser.
 
 ## Planning
-1. Eerste versie: lesweek 2
-2. Oplevering en beoordeling: lesweek 3
+1. Les 1: briefing opdracht 1 en beginnen met schetsen en coderen
+2. Les 2: Eerste versie testen
+2. Les 3: Oplevering en beoordeling
 
 
 ## Criteria
