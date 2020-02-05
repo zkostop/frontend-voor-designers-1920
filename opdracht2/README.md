@@ -8,8 +8,9 @@ Bedenk een functionaliteit die je op meerdere manieren kan bedienen. Schets eers
 Codeer de functionaliteit in HTML,CSS en JavaScript en test verschillende versies van je ontwerp in een browser.
 
 ## Planning
-1. Eerste versie: lesweek 4
-2. Oplevering en beoordeling: lesweek 5
+1. Les 3: briefing opdracht 2 en beginnen met schetsen en coderen
+2. Les 4: Eerste versie testen
+2. Les 5: Oplevering en beoordeling
 
 
 ## Voorbeeld functionaliteit die je kan maken
