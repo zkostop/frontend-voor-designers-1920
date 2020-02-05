@@ -13,19 +13,19 @@ Codeer de functionaliteit in HTML,CSS en JavaScript en test verschillende versie
 
 
 ## Voorbeeld functionaliteit die je kan maken
-<li>Carousel met vakantiefoto's: Een carousel met meerdere foto's van een vakantie, die je kan bedienen met een button en met de pijltjes op het toetsenbord.</li>
-<li>Portfolio website met meerdere projecten en een biografie. Als je naar 'beneden' scrollt vult de betreffende section zicht met informatie. Als je op tab klikt ga je ook naar de volgende section. Of als je 'volgende' roept ...</li>
-<li>Settings panel op een foto-overzichtpagina: Instellingen zijn bijvoorbeeld de font-grootte, night vision en het aantal kolommen die naast elkaar worden getoond. Het bedienen van de instellingen moet met de muis en de sneltoetsen op het toetsenbord.</li>
-<li>Je mag ook een eigen idee uitwerken. Kom dan eerst even overleggen.</li>
+-Carousel met vakantiefoto's: Een carousel met meerdere foto's van een vakantie, die je kan bedienen met een button en met de pijltjes op het toetsenbord.
+-Portfolio website met meerdere projecten en een biografie. Als je naar 'beneden' scrollt vult de betreffende section zicht met informatie. Als je op tab klikt ga je ook naar de volgende section. Of als je 'volgende' roept ...
+-Settings panel op een foto-overzichtpagina: Instellingen zijn bijvoorbeeld de font-grootte, night vision en het aantal kolommen die naast elkaar worden getoond. Het bedienen van de instellingen moet met de muis en de sneltoetsen op het toetsenbord.
+-Je mag ook een eigen idee uitwerken. Kom dan eerst even overleggen.
 
 
 ## Criteria
 
-- In de demo maak je gebruik van twee of meer verschillende [User Interface events](https://developer.mozilla.org/en-US/docs/Web/API/UIEvent).
-- In de demo dien je rekening te houden met de interface design principles 06, 08 en/of 14 van [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/).
-- Je ontwerp is aantoonbaar getest en verbeterd. Verslaglegging en resultaat publiceren op Github. <br>Voeg ook je breakdown-schets toe, en beschrijf je eerste idee en technische opzet en hoe het uiteindelijk is geworden.
+1. In de demo maak je gebruik van verschillende [User Interface events](https://developer.mozilla.org/en-US/docs/Web/API/UIEvent).
+2.In de demo dien je rekening te houden met de interface design principles 04, 08 & 09 van [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/).
+3. Je ontwerp is aantoonbaar getest en verbeterd. Verslaglegging en resultaat publiceren op Github. <br>Voeg ook je breakdown-schets toe, en beschrijf je eerste idee en technische opzet en hoe het uiteindelijk is geworden.
 
 ## Resources
 
-1. Als je iets wil doen met scrollen, dan kun je het event 'scroll' gebruiken. Misschien kun je ook iets doen met de [Intersection observer](https://pawelgrzybek.com/the-intersection-observer-api-explained/)
-2. Als een onderdeel van je pagina in beeld moet verschijnen na een click, dan kun je iets doen met de [scrollIntoView](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView).
+- Als je iets wil doen met scrollen, dan kun je het event 'scroll' gebruiken. Misschien kun je ook iets doen met de [Intersection observer](https://pawelgrzybek.com/the-intersection-observer-api-explained/)
+- Als een onderdeel van je pagina in beeld moet verschijnen na een click, dan kun je iets doen met de [scrollIntoView](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView).
