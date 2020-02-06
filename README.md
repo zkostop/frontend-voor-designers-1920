@@ -2,7 +2,7 @@
 
 ![alt text](./img/F4Dsplash.png "Frontend voor Design Splash")
 
-In het vak Frontend voor Designers leer je hoe je met HTML, CSS en Javascript prototypes kan maken om je ontwerp ideeën te testen in een browser. We gaan animeren, responsive layouts uitproberen en interactie coderen ...
+In het vak Frontend voor Designers leer je hoe je met HTML, CSS en Javascript prototypes kunt maken om je ontwerpideeën te testen in een browser. We gaan animeren, responsive layouts uitproberen en interactie coderen ...
 
 
 Het vak bestaat uit 3 opdrachten:
