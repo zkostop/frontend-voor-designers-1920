@@ -4,21 +4,19 @@ Voor deze opdracht ga je een functionaliteit ontwerpen met externe data. De data
 
 
 ## Werkwijze
-
 Schets eerst hoe de functionaliteit er uit komt te zien. Maak daarna een breakdown-schets hoe de verschillende componenten technisch moeten gaan werken...
 
 Werk daarna je ontwerp uit in HTML, CSS en JavaScript.
 
 
 ## Planning
-1. Les 5: briefing opdracht 3, API uitzoeken, tutorial doorlopen, schetsen en beginnen met coderen
+1. Les 5: Briefing opdracht 3, API uitzoeken, tutorial doorlopen, schetsen en beginnen met coderen
 2. Les 6: Eerste versie testen. Meenemen: breakdown-schets, JSON laden in de console, daarna in Javascript HTML elementen aanmaken, de data koppelen en toevoegen aan de DOM
 3. Les 7: Demo presenteren
 4. Les 8: Oplevering en beoordeling
 
 
 ## Criteria
-
 1. De uitwerking van je ontwerp moet het doen in een browser en device naar keuze.
 2. De data wordt van een externe bron ingeladen met Javascript.
 3. Een aantal states van de [UI stack](https://www.scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack/) worden opgevangen en zijn vormgegeven.
@@ -28,7 +26,6 @@ Werk daarna je ontwerp uit in HTML, CSS en JavaScript.
 
 
 ## Resources
-
 - Met behulp van [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest) of [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) kan een [JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) file worden geladen. Daarna kun je de HTML elementen aanmaken, de juiste content koppelen en aan de DOM toevoegen.
 - Hier staat een [tutorial](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) voor het laden van JSON data en het aanmaken van HTMl elementen.
 - Bij het laden van externe data kan de server verschillende [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) doorgeven, die kun je gebruiken om feedback te tonen.
