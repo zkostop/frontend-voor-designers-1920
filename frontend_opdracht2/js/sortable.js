@@ -1,2 +1,2 @@
-var el = document.getElementsByClassName("articles")[0];
-var sortable = Sortable.create(el);
+var deLijstFilms = document.querySelector(".articles");
+var sortable = Sortable.create(deLijstFilms);
