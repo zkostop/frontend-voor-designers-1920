@@ -1,6 +1,7 @@
 Zoë Kostopoulos 
 500703647
-Klas 204 
+Klas 2 - Front-end voor Designers
+Docent: Sanne 't Hooft
 
 # Frontend voor designers
 
@@ -14,21 +15,23 @@ Na het maken van de eerste opdracht (favoriete films opslaan) was het nog niet h
 Ik heb deze principe toegepast door de gebruiker zelf de keuze te geven om iets op te slaan of niet. De gebruiker kan ook de film weghalen uit de lijst van favorieten door simpel weer op het hartje te drukken. Het hartje is simpel en duidelijk genoeg voor de gebruikers. 
 
 #### 11: Strong visual hierarchies work best
-Ik heb dit toegepast door blokken onder elkaar te zetten met de verschillende films erin. De gebruikers kunnen zo makkelijk door de lijst heen scrollen en duidelijk zien wat het aanbod is. De header zorgt voor een samenhangend gevoel en zorgt ervoor dat alles bij elkaar past. De kleuren zorgen er ook voor dat het samenhangt.
+Ik heb dit toegepast door blokken onder elkaar te zetten met de verschillende films erin. De gebruikers kunnen zo makkelijk door de lijst heen scrollen en duidelijk zien wat het aanbod is. De header zorgt voor een samenhangend gevoel en zorgt ervoor dat alles bij elkaar past. De kleuren zorgen er ook voor dat het samenhangt. 
+Na feedback uit de les kreeg ik de tip om de blokken naast elkaar te zetten om het een soort 'Netflix' gevoel te geven. Dit oogt overzichtelijker en het staat netjes in een grid. Wanneer er meer films worden toegevoegd zou de gebruiker hier door heen kunnen scrollen. 
 
 
 ## [Opdracht 2](frontend_opdracht2/) :
 Het maken van deze opdracht was vrij simpel en snel gemaakt. Ik heb gekozen voor een simpele interactie die bestuurbaar is door middel van het indrukken van de pijltjes op het toetsenbord. Wanneer de gebruiker op het pijltje naar boven drukt, gaat de website weer terug naar het begin. Wanneer de gebruiker op het pijltje naar beneden drukt, gaat de website naar het eindpunt. Hier heb ik een tutorial gevolgd. Na 1 keer testen werkte de code goed en was het niet nodig om hier verder aan te werken. 
-Bij nader inzien heb ik een extra functie toegvoegd. De gebruiker kan nu de afbeelding aanklikken waardoor hij groter wordt. De gebruiker kan zo bijvoorbeeld 
+Bij nader inzien en feedback heb ik een extra functie toegvoegd. De gebruiker kan nu de afbeelding aanklikken waardoor hij groter wordt. De gebruiker kan zo bijvoorbeeld de afbeelding later makkelijk terugvinden. Het coderen ging vrij makkelijk, ik heb ook een transitie toegevoegd waardoor de afbeeldingen mooier overgaan op de grotere afbeelding. 
+Na nogmaals feedback te hebben gekregen kreeg ik de tip om iets 'slepen' te gaan doen. Van de docent kreeg ik de tip om iets met sortable te gaan doen. Hierdoor kan de gebruiker de films slepen naar een andere plek. Het coderen ging aan de hand van: https://github.com/SortableJS/Sortable . Vervolgens moest ik deze linken in mijn eigen code en er voor zorgen dat hij samen met de vorige functie van de vorige opdracht samenwerkt. Dit deed hij eerst niet, maar na het aanpassen van de namen van de films in de [code](frontend_opdracht2/films.html) van 'foto-1' naar die weg te halen, deed hij het wel. De code verwachte namelijk de foto als 'klikbaar' element. 
 
 ## Principes: 
 
 #### 4: Keep the users in control
-De gebruiker is hier zeker in 'control'. De gebruiker kan namelijk zelf de website besturen op een gemakkelijke manier. De gebruiker kan zo ook makkelijk onthouden welke films interessant zijn. 
+De gebruiker is hier zeker in 'control'. De gebruiker kan namelijk zelf de website besturen op een gemakkelijke manier. De gebruiker kan zo ook makkelijk onthouden welke films interessant zijn. De gebruiker kan ook zelf de films verslepen en op volgorde van voorkeur zetten. Dit geeft de gebruiker veel macht over de website. 
 
 #### 8: Provide a natural next step 
 Veel mensen vinden het makkelijk om via de pijltjes bepaalde interacties op te wekken op een computer. Het besturen zal de gebruikers dan ook zeker niet verbazen en zullen ze er hard over na moeten denken voordat zij dit uitproberen. 
-De andere functie is ook vanzelf sprekend voor de gebruiker. De gebruiker kan namelijk verwachten dat bij een klik op een afbeelding de afbeelding vergroot wordt. Dit kan de gebruiker gewend zijn zoals een website als Netflix. Bij het nog een keer aanklikken 
+De andere functie is ook vanzelf sprekend voor de gebruiker. De gebruiker kan namelijk verwachten dat bij het indrukken van een film dat er gesleepd kan worden. Wanneer je hem loslaat verspringt hij naar de gewenste plek. 
 
 
 ## [Opdracht 3](frontend_opdracht3/) :
@@ -41,8 +44,7 @@ Wat opviel tijdens het maken was dat de teller in de nav-bar niet meer werkte. Z
 Gebruikers willen niet graag voor verassingen staan en moeten duidelijkheid hebben van de interacties die zij voor hen krijgen. Het aanklikken van een hartje zou dus zeker gepast zijn. De gebruikers verwachten namelijk dat het hartje ingekleurd zal worden en bij nog een keer aanklikken weer leeg wordt. 
 
 #### 11: Strong visual hierarchies work best
-Door de ingeladen JSON op een overzichtelijke manier in de website neer te zetten wordt het fijner voor de gebruiker om het overzicht te zien. De blokken onderelkaar zijn simpel, lijken op elkaar en de gebruiker weet wat hij zal verwachten. Het inladen ziet er overzichtelijk uit en er hoeft niet veel moeite gedaan te worden om het aan te passen. 
+Door de ingeladen JSON op een overzichtelijke manier in de website neer te zetten wordt het fijner voor de gebruiker om het overzicht te zien. De blokken naast elkaar zijn simpel, lijken op elkaar en de gebruiker weet wat hij zal verwachten. Het inladen ziet er overzichtelijk uit en er hoeft niet veel moeite gedaan te worden om het aan te passen. 
 
 #### keuze valt voor deze opdracht:
-De website is overzichtelijk, voldoet aan de eisen van de principes en is het fijnste om naar te kijken. De manier van vormgeving spreekt mij het meeste aan omdat het opelkaar lijkt, overzichtelijk is en lijkt op andere sites waar je een film zou bekijken.
-
+De website is overzichtelijk, voldoet aan de eisen van de principes en is aangenaam om naar te kijken. De manier van vormgeving spreekt mij het meeste aan omdat het opelkaar lijkt, overzichtelijk is en lijkt op andere sites waar je een film zou bekijken.

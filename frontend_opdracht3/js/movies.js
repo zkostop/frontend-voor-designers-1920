@@ -23,7 +23,6 @@ function setElements(jsonObject) {
 		var article = document.createElement('article');
 		var img = document.createElement('img');
 		img.classList.add('verhaal-foto');
-		img.classList.add('img-film' + i);
 		img.src = movies[i].cover;
 		var button = document.createElement('button');
 		button.classList.add('film' + i);
